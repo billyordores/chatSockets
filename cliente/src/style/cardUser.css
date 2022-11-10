@@ -1,0 +1,34 @@
+.body-card{
+    background-color: gray;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 65px;
+    margin-top: 10px;
+}
+.content-name-state{
+    display: flex;
+    /* justify-content: center; */
+    height: 20px;
+}
+.content-name-state h4{
+    
+    float: left;
+    margin: 0;
+}
+.icon-online-active{
+    height: 20px !important;
+    color: greenyellow;
+}
+.icon-online-desactive{
+    color: rgb(185, 39, 39);
+}
+.txt-email{
+    font-size: 10px;
+    margin: 0px;
+    color: white;
+}
+.icon-message{
+    margin-top: 5px;
+    cursor: pointer;
+}
